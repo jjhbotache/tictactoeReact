@@ -2,6 +2,8 @@
 
 This project is a simple, yet engaging, Tic Tac Toe game built with React. The game allows two players to compete in a classic game of Tic Tac Toe, with the game state persisting even after a page refresh.
 
+![](/readmeSources/ticTacToeVideo_reducido.gif)
+
 ## Pages
 
 - **Main Page**: This is where the game is played. It consists of a 3x3 grid where players can click to mark their moves. The current player's turn is highlighted. If there's a winner or the game is a draw, a message is displayed along with a button to restart the game.
